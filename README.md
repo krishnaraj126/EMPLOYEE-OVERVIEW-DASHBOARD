@@ -5,7 +5,7 @@ THIS IS AN EMPLOYEE OVERVIEW DASHBOARD
 
 🔗 [View Dashboard on Tableau Public](https://public.tableau.com/views/MYWORKSPACE1/Dashboard1?:language=en-US&publish=yes)
 
-
+![Tableau Dashboard](https://github.com/user-attachments/assets/2e25fba1-8a01-4060-af10-a62dbe72af6b)
 ![excel sheet](https://github.com/user-attachments/assets/aa96d088-bca3-4662-8f07-5713948a8d59)
 ![sheet1](https://github.com/user-attachments/assets/e989f5fe-b140-46dc-86e3-c7e0b759d63f)
 
@@ -15,7 +15,7 @@ THIS IS AN EMPLOYEE OVERVIEW DASHBOARD
 
 
 ![Dashboard Screenshot]
-![Tableau Dashboard](https://github.com/user-attachments/assets/2e25fba1-8a01-4060-af10-a62dbe72af6b)
+
 
 
 
